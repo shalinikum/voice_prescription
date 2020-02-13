@@ -1,0 +1,9 @@
+Dear ${PERSON_NAME}, 
+
+This is a test message. 
+Have a great weekend! 
+Tierce ka v padh le!
+SIH ho jayega apn ka!!
+
+Yours Truly
+shalini 
